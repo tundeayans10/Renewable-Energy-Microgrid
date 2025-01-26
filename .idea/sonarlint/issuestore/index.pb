@@ -9,3 +9,9 @@ R
 "contracts/consumption-billing.clar,b/0/b0dc491ec78114d3d1deaa4a13b93013a88bcfc7
 Q
 !tests/consumption-billing.test.ts,6/2/6210f930b5dc4a2709ef0826d53a118526b19a28
+M
+contracts/grid-balancing.clar,6/6/66fda8f28b67d55ed4e62fdd99e5434482205427
+M
+contracts/energy-trading.clar,6/d/6d7212ff31b8b2c7ed59770341c7a8a4407ae036
+=
+Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
