@@ -1,3 +1,19 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+P
+ contracts/energy-production.clar,8/9/89e9543c0b30e42f45f82bf4ed486803472997ea
+O
+tests/energy-production.test.ts,4/e/4ef6ea28a1615b05fc3f83b128a8500e9c5ca97f
+R
+"contracts/consumption-billing.clar,b/0/b0dc491ec78114d3d1deaa4a13b93013a88bcfc7
+Q
+!tests/consumption-billing.test.ts,6/2/6210f930b5dc4a2709ef0826d53a118526b19a28
+M
+contracts/grid-balancing.clar,6/6/66fda8f28b67d55ed4e62fdd99e5434482205427
+M
+contracts/energy-trading.clar,6/d/6d7212ff31b8b2c7ed59770341c7a8a4407ae036
+=
+Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
+L
+tests/energy-trading.test.ts,9/c/9cba7fe1dec9bcb62306bf4705154e7113ca0c31
